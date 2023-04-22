@@ -1,2 +1,2 @@
-# System-and-Network-Security
-This repo includes java programs to generate, encrypt and decrypt RSA
+# RSA encrypt/decrypt
+This repo includes java program on generating, encrypting and decrypting RSA
